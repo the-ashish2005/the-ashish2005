@@ -44,7 +44,7 @@ TypeScript · Next.js · Python · APIs · LLMs · RAG
   </tr>
 </table>
 
-> 🗂️ See all 22 projects → **[ashishhh.vercel.app](https://blank.page/@theashishidentity/uploading-soon)**
+> 🗂️ See all other projects → **[ashishhh.vercel.app](https://blank.page/@theashishidentity/uploading-soon)**
 
 ---
 
@@ -67,6 +67,7 @@ TypeScript · Next.js · Python · APIs · LLMs · RAG
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
@@ -81,6 +82,15 @@ TypeScript · Next.js · Python · APIs · LLMs · RAG
 ![Vector Embeddings](https://img.shields.io/badge/vector%20embeddings-%233ECF8E.svg?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/prompt%20engineering-%23FF6C37.svg?style=for-the-badge&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/ai%20agents-%2320232a.svg?style=for-the-badge&logoColor=white)
+<br/>
+
+### 📊 Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 <br/>
 
 ### ☁️ Cloud & Infra
